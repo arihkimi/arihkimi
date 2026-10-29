@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Arif Hakimi! 👋</h1>
+<h1 align="center"> Assalamualaikum! I'm Arif Hakimi! 👋</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arihkimi&style=flat-square&color=blue" alt="Profile Views" />
