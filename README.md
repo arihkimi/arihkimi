@@ -43,7 +43,7 @@ Here are the tools, languages, and technologies I am currently working with:
 
 ### 📫 Let's Connect & Collaborate
 * 💼 LinkedIn: [Muhammad Arif Hakimi](https://www.linkedin.com/in/arif-hakimi-8119a9365/) 
-* 📸 Instagram: [@arihkimi__](https://www.instagram.com/arihkimi)
+* 📸 Instagram: [@arihkimi__](https://www.instagram.com/arihkimi__)
 * 📧 Email: arifhakimi.h@live.iium.edu.my
 
 > *"Code is like humor. When you have to explain it, it’s bad." — Cory House*
