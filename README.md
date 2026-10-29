@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Arif Hakimi! 👋</h1>
 
-<!--
-**arihkimi/arihkimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arihkimi&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Looking%20for%20Opportunities-blue?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Location-Terengganu%20%2F%20Kuala%20Lumpur-orange?style=flat-square" alt="Location" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 About Me
+* 🌱 I am a Computer Science undergraduate at **International Islamic University Malaysia (IIUM)**, originally hailing from **Terengganu, Malaysia**.
+* 🚀 Passionate about **Software Engineering**, object-oriented design, and database programming.
+* 🎯 Aiming to build scalable, high-performance software solutions for top tech industries in Malaysia and Singapore.
+
+---
+
+### 🛠️ Tech Stack & Learning Journey
+Here are the tools, languages, and technologies I am currently working with:
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Programming Languages** | Java, Dart, JavaScript, HTML / CSS |
+| **Frameworks & Mobile** | Flutter |
+| **IDEs & Environments** | Apache NetBeans, Visual Studio Code |
+| **Databases & Tools** | FreeSQL, SQL, Git |
+
+---
+
+### 📚 What I'm Currently Focusing On
+* **Object-Oriented Programming (OOP):** Deepening my software engineering principles, class structures, and design patterns using **Apache NetBeans**.
+* **Database Programming:** Building robust database queries, schema designs, and data management workflows using **FreeSQL**.
+* **Mobile & Web Apps:** Expanding my portfolio with real-world applications using Flutter and modern web technologies.
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arihkimi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+---
+
+### 📫 Let's Connect & Collaborate
+* 💼 LinkedIn: [Muhammad Arif Hakimi](https://www.linkedin.com) *(Sila kemaskini pautan)*
+* 📸 Instagram: [@arihkimi](https://www.instagram.com/arihkimi)
+* 📧 Email: *Emel profesional anda*
+
+> *"Code is like humor. When you have to explain it, it’s bad." — Cory House*
